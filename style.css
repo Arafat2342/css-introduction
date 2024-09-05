@@ -1,0 +1,19 @@
+h2{color: blueviolet;}
+*{
+   background-color: midnightblue;
+}
+.Romans{
+    background-color:rgb(88, 88, 70);
+    font: size 1000px;
+}
+#Vikings{
+    color:lime;
+    background-color: black;
+    bottom: 0;
+    position: absolute;
+    font-weight: 200;
+}
+h3,#type{
+    color: aquamarine;
+    size: 100%;
+}
